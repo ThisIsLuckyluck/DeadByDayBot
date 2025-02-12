@@ -1,0 +1,25 @@
+{
+  "name": "deadbydaybot",
+  "version": "1.0.0",
+  "description": "A Discord bot designed to enhance the Dead by Daylight experience with unique features and automation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "deadbydaylight",
+    "deadbydaybot"
+  ],
+  "author": "ThisIsLuckyluck",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "eslint": "^9.20.1"
+  }
+}
