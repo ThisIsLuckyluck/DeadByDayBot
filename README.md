@@ -1,6 +1,6 @@
 # 🎮 DeadByDayBot
 
-    A Discord bot designed to enhance the Dead by Daylight experience with unique features and automation.
+A Discord bot designed to enhance the Dead by Daylight experience with unique features and automation.
 
 ## 🚀 Deployment
 
@@ -36,10 +36,10 @@ A community-created game mode for Dead by Daylight where players build a custom 
 
 🔍 Retrieve detailed information about any Dead by Daylight character, including:
 
-    🛠 Perks
-    💰 Character price
-    🖼 Character images
-    🎭 Addons (Killers only)
+- 🛠 Perks
+- 💰 Character price
+- 🖼 Character images
+- 🎭 Addons (Killers only)
 
 ### ❓ DeadByKnowledge
 
