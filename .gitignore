@@ -3,3 +3,9 @@
 
 # Ignoring variable environment's file
 .env
+
+#Ignoring assets folder
+/assets/faerys
+
+#Ignoring generated Images
+/generator/*.png
